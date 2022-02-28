@@ -1,0 +1,23 @@
+{
+    "CN": "CA",
+    "hosts": [
+        "localhost",
+        "::1",
+	"127.0.0.1",
+        "license.meiya.com"
+    ],
+    "key": {
+        "algo": "rsa",
+        "size": 2048
+    },
+    "names": [
+        {
+            "C": "CN",
+            "ST": "Fujian",
+            "L": "XiaMen",
+            "O": "meiya",
+            "OU": "whalex"
+        }
+    ]
+}
+
